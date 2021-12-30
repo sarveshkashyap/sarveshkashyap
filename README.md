@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarveshkashyap
 - 👀 I’m interested in TECH.
-- 🌱 I’m currently learning Angular+Typescript+PHP+Kotlin+Swift+Python+C+++C#+Java+MachineLearning.
+- 🌱 I’m currently learning React.js+Angular+Typescript+PHP+Kotlin+Swift+Python+C+++C#+Java+MachineLearning.
 - 💞️ I’m looking to collaborate on MachineLearning.
 - 📫 How to reach me? Connect via => sarveshkashyap6@gmail.com
 <!---
